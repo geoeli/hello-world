@@ -1,3 +1,3 @@
 # hello-world
 first repository
-Abut those vehicles out of this world
+About those vehicles out of this world
